@@ -14,7 +14,7 @@
 Absorber
 
 플레이 영상
-[![썸네일](https://github.com/user-attachments/assets/d79ca6e4-c515-4db6-96f2-cdd817057411)](https://youtu.be/50TDZcLhm9U)
+[![썸네일](https://github.com/user-attachments/assets/d79ca6e4-c515-4db6-96f2-cdd817057411)](https://youtu.be/_Qos5GsNZl0)
 
 ### 💡 장르
 2D 플랫포머 RPG
